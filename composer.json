@@ -1,0 +1,15 @@
+{
+    "name": "netlogix/lighthousethemeshopware",
+    "description": "Optimized Shopware Responsive Theme",
+    "type": "shopware-frontend-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "netlogix GmbH & Co. KG",
+            "email": "websolutions@netlogix.de"
+        }
+    ],
+    "extra": {
+        "installer-name": "Lighthouse"
+    }
+}
