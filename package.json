@@ -1,0 +1,22 @@
+{
+  "name": "lighthouse-theme-shopware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netlogix/lighthouseThemeShopware.git"
+  },
+  "author": "netlogix GmbH & Co. KG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netlogix/lighthouseThemeShopware/issues"
+  },
+  "homepage": "https://github.com/netlogix/lighthouseThemeShopware#readme",
+  "dependencies": {
+    "critical": "^3.1.0"
+  }
+}
