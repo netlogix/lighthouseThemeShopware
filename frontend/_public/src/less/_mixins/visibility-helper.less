@@ -1,0 +1,16 @@
+.visibility(@displayType: block) {
+    display: @displayType !important;
+
+    table& {
+        display: table !important;
+    }
+
+    tr& {
+        display: table-row !important;
+    }
+
+    th&,
+    td& {
+        display: table-cell !important;
+    }
+}
